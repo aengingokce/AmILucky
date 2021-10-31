@@ -1,4 +1,4 @@
-# AmILucky
+# Am I Lucky
 
 I developed this game for learning İOS & Swift with the help of an instructor.
 Its a simple dice game 5 wins. 
