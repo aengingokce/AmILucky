@@ -1,6 +1,6 @@
 # AmILucky
 
-I have been developed this game for learning İOS & Swift with an instructor
+I developed this game for learning İOS & Swift with an instructor
 Its a simple dice game 5 wins. 
 Shake your phone for each round.
 
